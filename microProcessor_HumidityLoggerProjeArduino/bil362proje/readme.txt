@@ -1,0 +1,1 @@
+Dht11 sýcaklýk ve nem sensorden aldýgý verileri anlýk sd karta yazan logger.
